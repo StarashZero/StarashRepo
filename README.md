@@ -3,4 +3,4 @@
 # StarashRepo
 # StarashRepo
 试一试
-$\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t$ 
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
