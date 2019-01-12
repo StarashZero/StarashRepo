@@ -1,11 +1,11 @@
 ### Formule
 
-When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are  
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$  
 
-<div>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
-$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</div>
+<div>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are  
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</div>  
 
-```
-The final element.
-```
+```  
+The final element.  
+```  
